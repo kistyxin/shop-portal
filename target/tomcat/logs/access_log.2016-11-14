@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:00 +0800] "GET /order/order-cart.html HTTP/1.1" 302 - http-bio-8082-exec-1 1586
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:17 +0800] "GET /order/order-cart.html HTTP/1.1" 200 24439 http-bio-8082-exec-7 4226
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:40 +0800] "POST /order/create.html HTTP/1.1" 200 7370 http-bio-8082-exec-8 20949
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:41 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 200 3121 http-bio-8082-exec-4 75
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:41 +0800] "GET /js/base-2011.js HTTP/1.1" 304 - http-bio-8082-exec-1 126
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:41 +0800] "GET /css/purchase.base.2012.css HTTP/1.1" 200 13339 http-bio-8082-exec-9 156
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:41 +0800] "GET /css/purchase.sop.css HTTP/1.1" 200 9885 http-bio-8082-exec-10 159
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:41 +0800] "GET /images/icon48.png HTTP/1.1" 200 391 http-bio-8082-exec-9 211
+0:0:0:0:0:0:0:1 - - [14/Nov/2016:15:47:41 +0800] "GET /images/flow.gif HTTP/1.1" 200 818 http-bio-8082-exec-10 387
